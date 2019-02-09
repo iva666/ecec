@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 kaktus
 hibiskus
 tortirehit
+=======
+juja
+biga
+bashgit
+>>>>>>> deebb4473a46e336de56f011f75262c2c716358d
